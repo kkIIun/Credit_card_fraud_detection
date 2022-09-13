@@ -1,7 +1,5 @@
 # Dacon Unsupervised Anomaly Detection
 
----
-
 ## 1. 데이터 전처리 방식
 
     dataFrame type을 torch.Tensor type으로 바꿨습니다.
